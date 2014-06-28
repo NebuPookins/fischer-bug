@@ -1,1 +1,1 @@
-View at http://nebupookins.github.io/fischer-bug/
+View at http://nebupookins.github.io/fisher-bug/
